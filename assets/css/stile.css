@@ -1,0 +1,183 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    text-align: center;
+    color: #393d41;
+    line-height: 1.65;
+
+
+
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Montserrat (bold)', sans-serif;
+    text-align: center;
+    font-weight: 800;
+    color: #25a2c3;
+    line-height: 1.50;
+
+
+}
+
+
+header {
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+}
+
+header img {
+    width: 40%
+}
+
+#principale {
+    background-image: url('../images/banner.jpg');
+    background-size: cover;
+    padding: 30px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+p {
+    margin-top: 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+button {
+    background-color: orangered;
+    border: none;
+    border-radius: 7px;
+    padding: 10px;
+
+}
+
+#secondario {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.titolisec {
+    font-size: 20px;
+    font-weight: 800;
+
+}
+
+#terziario {
+    text-align: center;
+}
+
+#immagine2 {
+    border-radius: 1000px;
+    width: 80%;
+}
+
+#quarto {
+    background-color: orangered;
+    color: white;
+    margin-top: 20px;
+    padding: 40px;
+    line-height: 1.5;
+}
+h4 {
+    font-size: 30px;
+    font-weight: 800;
+}
+cite {
+font-style: italic;
+}
+
+
+
+#rossi {
+font-size: 15px ;
+margin-top: -20px;
+}
+
+#cattivo {
+    margin: 30px;
+    margin-top: 30px;
+    border: 1px solid #dee1e3;
+}
+
+#fotocattivo {
+    width: 100%;
+}
+
+#buono {
+    margin: 30px;
+    border: 1px solid #dee1e3;
+}
+
+#fotobuono {
+    width: 100%;
+}
+
+#medio {
+    margin: 30px;
+    border: 1px solid #dee1e3;
+}
+
+#fotomedia {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#lollo {
+    margin-top: -20px;
+    
+}
+
+footer {
+    background-color: #25a2c3 ;
+    color: white;
+    padding: 50px;
+}
+
+#contatto {
+    color: white;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+
+ul {
+    list-style-type: none;
+    font-size: 15px;
+}
+
+footer div p {
+    font-size: 15px;
+}
+
+.ultimo:link {
+    color: white;
+}
+
+.ultimo:visited {
+    color: white;
+}
+
+.ultimo:hover {
+    color: white;
+}
+
+hr {
+    width: 200px;
+}
